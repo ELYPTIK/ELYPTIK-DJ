@@ -1,0 +1,11 @@
+.btn-blue {
+	background-color: #6A36FF;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+/*<a href="#" class="btn-blue" target="_blank">Behind the Decks</a>
+<a href="#" class="btn-blue" target="_blank">Book me for an event</a>
+<a href="#" class="btn-blue" target="_blank">Learn about DJing</a>*/
